@@ -5,13 +5,6 @@ I'm a final-year engineering student, passionate about **web development**, **ma
 
 ---
 
-## 🔭 I’m currently working on:
-- A **Diabetes Prediction** web app using Flask + ML
-- A smart **Inventory Management System** using PHP + MySQL
-- Exploring **Blockchain & Smart Contracts** (Solidity + Truffle)
-
----
-
 ## 🌱 Currently Learning:
 - 📦 MERN Stack (MongoDB, Express, React, Node.js)
 - 🤖 Deep learning with TensorFlow
@@ -22,7 +15,7 @@ I'm a final-year engineering student, passionate about **web development**, **ma
 
 ## 🤝 Looking to Collaborate On:
 - Interesting **open-source** projects
-- **Hackathons** and innovative tech ideas
+- **Internship** opportunities
 - Anything with a solid learning curve 🚀
 
 ---
@@ -40,7 +33,7 @@ When I’m not coding, I’m either playing PUBG 🎮, overthinking things 🧠,
 ---
 
 ## 🛠 Tech Stack
-`Python` `Flask` `Java` `C/C++` `MySQL` `HTML` `CSS` `JavaScript` `React` `Git` `VS Code`
+`Rust``Python` `Flask` `Java` `C/C++` `MySQL` `HTML` `CSS` `JavaScript` `React` `Git` `VS Code`
 
 ---
 
