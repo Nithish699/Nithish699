@@ -21,7 +21,7 @@ I'm a final-year engineering student, passionate about **web development**, **ma
 ---
 
 ## 📫 How to reach me:
-- ✉️ Email: `nithish699@gmail.com`
+- ✉️ Email: `nithish699734@gmail.com`
 - 💼 LinkedIn: [linkedin.com/in/nithish699](https://linkedin.com/in/nithish699)
 - 🌐 Portfolio: *coming soon...*
 
