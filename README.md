@@ -1,33 +1,51 @@
-# 👋 Hi, I’m @Nithish699
+# 👋 Hey there! I'm Nithish 👨‍💻
 
-## 💡 About Me
-I'm a passionate developer with a love for building full-stack applications and solving real-world problems through code.
+## 🚀 About Me
+I'm a final-year engineering student, passionate about **web development**, **machine learning**, and building cool projects that solve real-world problems. I love turning ideas into reality through code!
 
-## 💼 I’m interested in
-- Web development (MERN & Django)
-- AI/ML and Data Science
-- Open source contributions
-- Blockchain and Smart Contracts
+---
 
-## 📚 I’m currently learning
-- React and advanced JavaScript
-- Spring Boot
-- Data Structures & Algorithms
-- System design basics
+## 🔭 I’m currently working on:
+- A **Diabetes Prediction** web app using Flask + ML
+- A smart **Inventory Management System** using PHP + MySQL
+- Exploring **Blockchain & Smart Contracts** (Solidity + Truffle)
 
-## 🤝 I’m looking to collaborate on
-- Open-source Python and web projects
-- Internships and freelance opportunities
-- Hackathons and coding contests
+---
 
-## 📫 How to reach me
-- 📧 Email: nithish699@example.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/nithish699)
-- 🧑‍💻 [Portfolio](https://your-portfolio-link.com)
+## 🌱 Currently Learning:
+- 📦 MERN Stack (MongoDB, Express, React, Node.js)
+- 🤖 Deep learning with TensorFlow
+- ⚙️ System Design basics
+- 💡 Clean UI/UX design practices
 
-## ⚡ Fun fact
-I can code for hours with lo-fi beats and black coffee ☕🎧
+---
+
+## 🤝 Looking to Collaborate On:
+- Interesting **open-source** projects
+- **Hackathons** and innovative tech ideas
+- Anything with a solid learning curve 🚀
+
+---
+
+## 📫 How to reach me:
+- ✉️ Email: `nithish699@gmail.com`
+- 💼 LinkedIn: [linkedin.com/in/nithish699](https://linkedin.com/in/nithish699)
+- 🌐 Portfolio: *coming soon...*
+
+---
+
+## 💬 Fun Fact:
+When I’m not coding, I’m either playing PUBG 🎮, overthinking things 🧠, or planning my next project (and maybe not starting it 😅).
+
+---
+
+## 🛠 Tech Stack
+`Python` `Flask` `Java` `C/C++` `MySQL` `HTML` `CSS` `JavaScript` `React` `Git` `VS Code`
+
+---
+
+> ✨ Always learning. Always building. Always leveling up.
 
 <!--
-Nithish699/Nithish699 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a special repository because the README.md appears on your GitHub profile!
 -->
