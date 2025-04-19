@@ -33,7 +33,7 @@ When I’m not coding, I’m either playing PUBG 🎮, overthinking things 🧠,
 ---
 
 ## 🛠 Tech Stack
-`Rust``Python` `Flask` `Java` `C/C++` `MySQL` `HTML` `CSS` `JavaScript` `React` `Git` `VS Code`
+`Rust` `Python` `Flask` `Java` `C/C++` `MySQL` `HTML` `CSS` `JavaScript` `React` `Git` `VS Code`
 
 ---
 
